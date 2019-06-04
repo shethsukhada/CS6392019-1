@@ -1,6 +1,6 @@
 I am Sukhada Sheth and I tested the app of Prakash Thakuri.
 The Min and Target versions of the SDKs are 15 and 28.
-I tested the app on a phone/tablet (model)/emulator with Android Pie 9.0  sssx86 
+I tested the app on a emulator with Android Pie 9.0  sssx86 
 The app does not crash.
 The app does display:
 Hello Prakash Shashi Thakuri
