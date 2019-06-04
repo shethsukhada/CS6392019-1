@@ -1,0 +1,8 @@
+I am Sukhada Sheth and I tested the app of Prakash Thakuri.
+The Min and Target versions of the SDKs are <X> and <Y>. 
+I tested the app on a phone/tablet (model)/emulator with Android 9.0 
+The app does not crash.
+The app does display:
+Hello Prakash Shashi Thakuri
+And
+Welcome in CS 639 Summer 2019
